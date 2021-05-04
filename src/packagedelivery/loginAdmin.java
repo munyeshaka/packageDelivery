@@ -119,7 +119,7 @@ public class loginAdmin extends javax.swing.JFrame {
         jButton3.setBackground(new java.awt.Color(26, 109, 193));
         jButton3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButton3.setForeground(new java.awt.Color(255, 255, 255));
-        jButton3.setText("<- Go Back");
+        jButton3.setText("<  Go Back");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
