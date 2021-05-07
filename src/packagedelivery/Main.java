@@ -39,7 +39,7 @@ public class Main extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(26, 109, 193));
         jLabel4.setText("Package delivery application");
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/packagedelivery/icons/courier.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/packagedelivery/icons/package.jpg"))); // NOI18N
 
         jButton1.setBackground(new java.awt.Color(26, 109, 193));
         jButton1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N

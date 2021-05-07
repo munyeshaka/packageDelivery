@@ -154,7 +154,7 @@ public class loginAdmin extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         if(txtusername.getText().equals("") || txtPassword.getText().equals("")){
-        JOptionPane.showMessageDialog(null,"Fill username and password!!!");
+        JOptionPane.showMessageDialog(null,"Fill username and password!!");
         }else{
         Dashboard d = new Dashboard(); 
         d.setVisible(true);
